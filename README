@@ -1,0 +1,34 @@
+Apartat 1
+git branch branca00
+git branch
+git checkout branca00
+git status
+
+Apartat 5
+git checkout main
+git log
+
+Apartat 7
+git checkout branca00
+
+Apartat 10b
+git merge branca00
+
+Apartat 12
+git push
+
+Apartat 14a
+git push --set-upstream origin branca01
+
+
+Resposta 6
+Degut al canvi a la branca main, els canvis anteriorment realitzats no els podem veure.
+
+Resposta 7
+Ara si perquè ens hem situat a la branca on hem realitzat les modificacions.
+
+Resposta 12c
+Perquè només hem realitzat el push a la branca main.
+
+Resposta 14c
+Com el propi github ens comunica ens trobem a un commit endavant.
